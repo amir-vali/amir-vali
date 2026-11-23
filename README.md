@@ -1,4 +1,4 @@
-# Hi, I'm Amir 👋
+# Hi, I'm AmirHosein 👋
 
 **Computer Science PhD | Causal Inference · Machine Learning · Quantum Communications**
 
