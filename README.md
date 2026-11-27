@@ -6,4 +6,4 @@ I work at the intersection of **probabilistic modeling, data science, and softwa
 
 More recently, I've been exploring **quantum communication systems**, particularly quantum key distribution (QKD), key management, and the software infrastructure around them.
 
-This profile brings together selected **research software, applied ML projects, and technical learning resources**. Some professional work is not publicly available.
+This profile brings together selected **research software, applied ML projects, and technical learning resources**.
